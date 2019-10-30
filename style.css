@@ -1,5 +1,3 @@
-/*bebe de fancy*/
-https://raw.githubusercontent.com/nereadelbarrio/lumbrerasNuevo/master
 
 /*TAGS LUMBRERAS*/
 #list-units .unittag_1_2_primaria_lumbreras:hover{
@@ -75,10 +73,10 @@ https://raw.githubusercontent.com/nereadelbarrio/lumbrerasNuevo/master
     	box-shadow: 6px 8px 12px -6px #898989;
 	}
 
-	body:not(.isTablet) #indice .units ul li:not(.disabled) a:hover .title, 
+	/*body:not(.isTablet) #indice .units ul li:not(.disabled) a:hover .title, 
 	body:not(.isTablet) #indice .units ul li.active:not(.disabled) a .title{
 		color: #8B4724;
-	}
+	}*/
 
 
 	/* General */
