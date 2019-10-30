@@ -582,7 +582,7 @@
 	bottom: 34px;
 	width: 90px;
 	height: 75px;
-	color: #ffffff;
+	color: rgba(255, 255, 255, 0);
 	font-size: 6.5rem;
 	line-height: 6.5rem;
 	padding: 2px 16px 2px 2px;
