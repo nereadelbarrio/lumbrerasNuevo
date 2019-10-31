@@ -69,25 +69,30 @@
 	#indice .units ul li.active:not(.disabled), 
 	body:not(.isTablet) #indice .units ul li:hover:not(.disabled), 
 	#indice .units ul li:focus:not(.disabled){
-	padding: 9px;
+		padding: 9px;
     	box-shadow: 6px 8px 12px -6px #898989;
 	}
 
-body:not(.isTablet) #indice .units ul li:not(.disabled) a:hover .title, 
+	body:not(.isTablet) #indice .units ul li:not(.disabled) a:hover .title, 
 	body:not(.isTablet) #indice .units ul li.active:not(.disabled) a .title {
-	color: #fff;
-	font-size: 20px;
-	font-weight: 700;
+		color: #fff;
+	    font-size: 20px;
+	    font-weight: 700;
 	}
 
-#indice .units ul li{
-	padding: 3px;
-	background: #cbcbcb;
-	border-radius: 13px;
+	#indice .units ul li{
+		padding: 3px;
+		background: rgb(173, 183, 216);
+		border-radius: 13px;
     	margin-bottom: 8px;
 	}
 
 
+	#indice .unit-content .header .title{
+		color: #fff0;
+	}
+
+	
 	/* General */
 
 @import url(https://fonts.googleapis.com/css?family=Cabin+Sketch:400,700);
