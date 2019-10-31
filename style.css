@@ -69,7 +69,7 @@
 	#indice .units ul li.active:not(.disabled), 
 	body:not(.isTablet) #indice .units ul li:hover:not(.disabled), 
 	#indice .units ul li:focus:not(.disabled){
-		padding: 13px;
+	padding: 9px;
     	box-shadow: 6px 8px 12px -6px #898989;
 	}
 
