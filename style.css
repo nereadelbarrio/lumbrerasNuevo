@@ -92,7 +92,13 @@
 		color: #fff0;
 	}
 
-	
+	#indice .units ul li a .title{
+		font-size: 17px;
+	    	font-weight: 700;
+	    	color: #ffff;
+	}	
+
+
 	/* General */
 
 @import url(https://fonts.googleapis.com/css?family=Cabin+Sketch:400,700);
