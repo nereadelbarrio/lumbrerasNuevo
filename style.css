@@ -73,6 +73,19 @@
     	box-shadow: 6px 8px 12px -6px #898989;
 	}
 
+body:not(.isTablet) #indice .units ul li:not(.disabled) a:hover .title, 
+	body:not(.isTablet) #indice .units ul li.active:not(.disabled) a .title {
+	color: #fff;
+	font-size: 20px;
+	font-weight: 700;
+	}
+
+#indice .units ul li{
+	padding: 3px;
+	background: #cbcbcb;
+	border-radius: 13px;
+    	margin-bottom: 8px;
+	}
 
 
 	/* General */
