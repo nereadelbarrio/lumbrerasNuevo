@@ -18,11 +18,18 @@
 				{ name: 'Autoevaluación 1_2 primaria', element: 'h4', attributes: { 'class': 'bck-title1'} },
 				{ name: 'Ampliación 1_2 primaria', element: 'h4', attributes: { 'class': 'bck-title2'} },
 				{ name: 'Refuerzo 1_2 primaria', element: 'h4', attributes: { 'class': 'bck-title3'} },
-				
+				{ name: 'Autoevaluación 3_4 primaria', element: 'h4', attributes: { 'class': 'bck-title4'} },
+				{ name: 'Ampliación 3_4 primaria', element: 'h4', attributes: { 'class': 'bck-title5'} },
+				{ name: 'Refuerzo 3_4 primaria', element: 'h4', attributes: { 'class': 'bck-title6'} },
+
 				{ name: 'Lista Ordenada por defecto', element: 'ol', attributes: { 'class': 'bck-ol' } },
 				{ name: 'Lista Ordenada 1', element: 'ol', attributes: { 'class': 'bck-ol-1' } },
+				{ name: 'Lista Ordenada 2', element: 'ol', attributes: { 'class': 'bck-ol-2' } },
+				{ name: 'Lista Ordenada 3', element: 'ol', attributes: { 'class': 'bck-ol-3' } },
 				{ name: 'Lista Desordenada por defecto', element: 'ul', attributes: { 'class': 'bck-ul'} },
 				{ name: 'Lista Desordenada 1', element: 'ul', attributes: { 'class': 'bck-ul-1'} },
+				{ name: 'Lista Desordenada 2', element: 'ul', attributes: { 'class': 'bck-ul-2'} },
+				{ name: 'Lista Desordenada 3', element: 'ul', attributes: { 'class': 'bck-ul-2'} },
 
 				{ name: 'Énfasis', element: 'span', attributes: { 'class': 'bck-enfasis' }},
 				{ name: 'Enunciado actividad', element: 'h4', attributes: { 'class': 'bck-title-activity' }},
