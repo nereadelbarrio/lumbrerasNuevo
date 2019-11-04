@@ -741,13 +741,6 @@
 	}
 
 	/*Lista ol 1*/
-	.cke_contents ol .bck-ol-1 {
-        padding-left: 0px !important;
-    }
-
-    ol.bck-ol-1 {
-        padding-left: 32px;
-    }
 
     #actividad .content .cke_contents .texto_curso .bck-ol-1 li,
     #actividad .content .texto_curso .bck-ol-1 li,
@@ -755,7 +748,7 @@
         list-style-type: none;
         counter-increment: bck-li-counter 1;
         position: relative;
-        padding-left: 0px;
+        padding-left: 40px;
     }
 
     #actividad .content .cke_contents .bck-ol-1 li:before,
