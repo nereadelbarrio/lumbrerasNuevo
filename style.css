@@ -712,6 +712,9 @@
 		border-top: 2px solid #85b426;
 	}
 
+	/*Listas*/
+	/*Lista ol por defecto*/
+
 	.content ol,
 	.cke_contents ol {
 		list-style: none;
@@ -737,6 +740,46 @@
 		margin-top: -2px;
 	}
 
+	/*Lista ol 1*/
+	.cke_contents ol .bck-ol-1 {
+        padding-left: 0px !important;
+    }
+
+    ol.bck-ol-1 {
+        padding-left: 32px;
+    }
+
+    #actividad .content .cke_contents .texto_curso .bck-ol-1 li,
+    #actividad .content .texto_curso .bck-ol-1 li,
+    #actividad .content .workspace ul li .bck-ol-1 li {
+        list-style-type: none;
+        counter-increment: bck-li-counter 1;
+        position: relative;
+        padding-left: 0px;
+    }
+
+    #actividad .content .cke_contents .bck-ol-1 li:before,
+    #actividad .content .texto_curso .bck-ol-1 li:before,
+    #actividad .content .workspace ul li .bck-ol-1 li:before {
+        content: counter(bck-li-counter)' ';
+	    position: absolute;
+	    margin-left: -47px;
+	    left: 47px;
+	    top: -1px;
+	    font-weight: bold;
+	    font-size: 1.9rem;
+	    text-align: right;
+	    color: #ffff;
+	    margin-top: -2px;
+	    background: #6888C4;
+	    border: 1px solid #6888C4;
+	    border-radius: 25px;
+	    padding: 3px 10px;
+	    font-family: 'Poppins', sans-serif;
+	}
+
+
+	/*Lista ul*/
 	.texto_curso ul li,
 	.workspace ul li ul li,
 	.cke_contents ul li {
