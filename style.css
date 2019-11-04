@@ -667,25 +667,27 @@
 /* CKEDITOR */
 
 /*título 1 autoevaluacion*/
-	.bck-title1 {
-		background-image: url(images/autoevaluacion1_2_primaria.png);
-		background-size: contain;
-		background-repeat: no-repeat;
-		padding: 70px;
-	}
-	
-	.bck-title2 {
-		background-image: url(images/ampliacion1_2_primaria.png);
-		background-size: contain;
-		background-repeat: no-repeat;
-		padding: 37px;
-  	}
+.bck-title1 {
+        background-image: url(images/autoevaluacion1_2_primaria.png);
+        background-size: contain;
+    	background-repeat: no-repeat;
+    	padding: 70px;
+    	background-position: center;
+    }
+
+    .bck-title2 {
+        background-image: url(images/ampliacion1_2_primaria.png);
+        background-size: contain;
+    	background-repeat: no-repeat;
+    	padding: 37px;
+    }
 
 	.bck-title3 {
-		background-image: url(images/refuerzo1_2_primaria.png);
-		background-size: contain;
-		background-repeat: no-repeat;
-		padding: 37px;
+	    background-image: url(images/refuerzo1_2_primaria.png);
+	    background-size: contain;
+	    background-repeat: no-repeat;
+	    padding: 47px;
+	    background-position: center;
 	}
 
 	.bck-enfasis,
