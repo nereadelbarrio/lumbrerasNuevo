@@ -21,6 +21,8 @@
 				
 				{ name: 'Lista Ordenada por defecto', element: 'ol', attributes: { 'class': 'bck-ol' } },
 				{ name: 'Lista Ordenada 1', element: 'ol', attributes: { 'class': 'bck-ol-1' } },
+				{ name: 'Lista Desordenada por defecto', element: 'ul', attributes: { 'class': 'bck-ul'} },
+				{ name: 'Lista Desordenada 1', element: 'ul', attributes: { 'class': 'bck-ul-1'} },
 
 				{ name: 'Énfasis', element: 'span', attributes: { 'class': 'bck-enfasis' }},
 				{ name: 'Enunciado actividad', element: 'h4', attributes: { 'class': 'bck-title-activity' }},
