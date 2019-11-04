@@ -64,6 +64,22 @@
 	background-color: #3EA1D9!important;
 }
 
+@font-face {
+	font-family: 'Conv_Poppins-Medium';
+	src: url('fonts/Poppins-Medium.eot');
+	src: local('☺'), url('fonts/Poppins-Medium.woff') format('woff'), url('fonts/Poppins-Medium.ttf') format('truetype'), url('fonts/Poppins-Medium.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Conv_Poppins-Regular';
+	src: url('fonts/Poppins-Regular.eot');
+	src: local('☺'), url('fonts/Poppins-Regular.woff') format('woff'), url('fonts/Poppins-Regular.ttf') format('truetype'), url('fonts/Poppins-Regular.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
 
 /*TOC GENERAL*/
 	#indice .units ul li.active:not(.disabled), 
