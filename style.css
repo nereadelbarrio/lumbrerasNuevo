@@ -80,6 +80,8 @@
 	font-style: normal;
 }
 
+@import url(https://fonts.googleapis.com/css?family=Cabin+Sketch:400,700);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,400italic);
 
 /*TOC GENERAL*/
 	#indice .units ul li.active:not(.disabled), 
@@ -119,9 +121,6 @@
 	}
 
 	/* General */
-
-@import url(https://fonts.googleapis.com/css?family=Cabin+Sketch:400,700);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,400italic);
 
 	.body_clase .content-wrapper {
 		padding-top: 100px;
