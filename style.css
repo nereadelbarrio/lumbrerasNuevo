@@ -757,6 +757,7 @@
         counter-increment: bck-li-counter 1;
         position: relative;
         padding-left: 40px;
+	font-family: 'Conv_Raleway-Regular';    
     }
 
     #actividad .content .cke_contents .bck-ol-1 li:before,
