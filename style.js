@@ -15,7 +15,7 @@
 			name: 'lumbrerasNuevo',
 			styles: [
 
-				{ name: 'Título 1', element: 'h4', attributes: { 'class': 'bck-title1'} },
+				{ name: 'Autoevaluación 1_2 primaria', element: 'h4', attributes: { 'class': 'bck-title1'} },
 				{ name: 'Título 2', element: 'h4', attributes: { 'class': 'bck-title2'} },
 				{ name: 'Título 3', element: 'h4', attributes: { 'class': 'bck-title3'} },
 				
