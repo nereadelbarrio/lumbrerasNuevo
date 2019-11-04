@@ -699,7 +699,7 @@
 		margin-bottom: 30px;
 	}
 
-	.bck-title1:before,
+	/*.bck-title1:before,
 	.bck-title2:before {
 		content: '';
 		display: block;
@@ -709,7 +709,7 @@
 		width: 120px;
 		height: 6px;
 		background-color: #85b426;
-	}
+	}*/
 
 
 	.bck-title3 {
