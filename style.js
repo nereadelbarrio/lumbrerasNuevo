@@ -16,8 +16,8 @@
 			styles: [
 
 				{ name: 'Autoevaluación 1_2 primaria', element: 'h4', attributes: { 'class': 'bck-title1'} },
-				{ name: 'Título 2', element: 'h4', attributes: { 'class': 'bck-title2'} },
-				{ name: 'Título 3', element: 'h4', attributes: { 'class': 'bck-title3'} },
+				{ name: 'Ampliación 1_2 primaria', element: 'h4', attributes: { 'class': 'bck-title2'} },
+				{ name: 'Refuerzo 1_2 primaria', element: 'h4', attributes: { 'class': 'bck-title3'} },
 				
 				{ name: 'Lista Ordenada por defecto', element: 'ol', attributes: { 'class': 'bck-ol' } },
 				{ name: 'Lista Ordenada 1', element: 'ol', attributes: { 'class': 'bck-ol-1' } },
