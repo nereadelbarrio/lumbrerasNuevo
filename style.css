@@ -800,6 +800,30 @@
 		margin-left: -18px;
 	}
 
+	/*lista ul 1*/
+	#actividad .content .texto_curso  ul.bck-ul-1 li,
+	#actividad .content .workspace ul li ul.bck-ul-1 li {
+	    list-style: none;
+	    font-size: 1.5rem;
+	    letter-spacing: 0.5px;
+	    position: relative;
+	    left: 23px;
+	    padding-left: 18px;
+	    margin-bottom: 21px;
+	    font-family: 'Conv_Raleway-Regular';
+	}
+
+	#actividad .content .cke_contents .bck-ul-1 li:before, 
+	#actividad .content .texto_curso .bck-ul-1 li:before, 
+	#actividad .content .workspace ul li .bck-ul-1 li:before{
+	    background-color: #ffffff;
+	    border: 2px solid #FDEB06;
+	    height: 10px;
+	    width: 10px;
+	    margin-top: 7px;
+	    margin-left: -16px;
+	}
+
 	.content figure:first-child:last-child,
 	.content .js--row figure,
 	.cke_contents figure:first-child:last-child,
