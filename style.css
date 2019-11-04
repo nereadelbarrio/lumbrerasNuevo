@@ -784,7 +784,37 @@
 	    padding: 3px 10px;
 	    font-family: 'Poppins', sans-serif;
 	}
+	
+	/*Lista ordenada 2 3_4primaria*/
+	#actividad .content .cke_contents .texto_curso .bck-ol-2 li,
+    #actividad .content .texto_curso .bck-ol-2 li,
+    #actividad .content .workspace ul li .bck-ol-2 li {
+        list-style-type: none;
+        counter-increment: bck-li-counter 1;
+        position: relative;
+        padding-left: 40px;
+        font-family: 'Conv_Raleway-Regular';
+        padding-bottom: 20px;
+    }
 
+    #actividad .content .cke_contents .bck-ol-2 li:before,
+    #actividad .content .texto_curso .bck-ol-2 li:before,
+    #actividad .content .workspace ul li .bck-ol-2 li:before {
+        content: counter(bck-li-counter)' ';
+	    position: absolute;
+	    margin-left: -47px;
+	    top: -1px;
+	    font-weight: bold;
+	    font-size: 1.9rem;
+	    text-align: right;
+	    color: #ffff;
+	    margin-top: -2px;
+	    background: #6888C4;
+	    border: 1px solid #6888C4;
+	    border-radius: 25px;
+	    padding: 3px 10px;
+	    font-family: 'Poppins', sans-serif;
+	}
 
 	/*Lista ul*/
 	.texto_curso ul li,
@@ -824,6 +854,30 @@
 	#actividad .content .workspace ul li .bck-ul-1 li:before{
 	    background-color: #ffffff;
 	    border: 2px solid #FDEB06;
+	    height: 10px;
+	    width: 10px;
+	    margin-top: 7px;
+	    margin-left: -16px;
+	}
+	
+	/*lista ul 2*/
+	#actividad .content .texto_curso  ul.bck-ul-2 li,
+	#actividad .content .workspace ul li ul.bck-ul-2 li {
+	    list-style: none;
+	    font-size: 1.5rem;
+	    letter-spacing: 0.5px;
+	    position: relative;
+	    left: 23px;
+	    padding-left: 18px;
+	    margin-bottom: 21px;
+	    font-family: 'Conv_Raleway-Regular';
+	}
+
+	#actividad .content .cke_contents .bck-ul-2 li:before, 
+	#actividad .content .texto_curso .bck-ul-2 li:before, 
+	#actividad .content .workspace ul li .bck-ul-2 li:before{
+	    background-color: #ffffff;
+	    border: 2px solid rgba(128, 181, 98, 1);
 	    height: 10px;
 	    width: 10px;
 	    margin-top: 7px;
