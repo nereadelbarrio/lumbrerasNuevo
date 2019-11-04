@@ -809,8 +809,8 @@
 	    text-align: right;
 	    color: #ffff;
 	    margin-top: -2px;
-	    background: #6888C4;
-	    border: 1px solid #6888C4;
+	    background: rgba(211, 85, 95, 1);
+	    border: 1px solid rgba(211, 85, 95, 1);
 	    border-radius: 25px;
 	    padding: 3px 10px;
 	    font-family: 'Poppins', sans-serif;
