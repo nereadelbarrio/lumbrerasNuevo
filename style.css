@@ -666,7 +666,34 @@
 
 /* CKEDITOR */
 
-	.bck-title1,
+/*título 1 autoevaluacion*/
+    .bck-title1 {
+        font-family: 'Conv_Chilanka-Regular',Sans-Serif;
+        color: #444444;
+        margin: 0px;
+        padding: 10px 15px 0px 15px;
+        margin-bottom: 30px;
+        font-size: 28px;
+        background-color: #edc500;
+        width: fit-content;
+        border-radius: 31px;
+        border-right: 2px solid #444444;
+        border-left: 2px solid #444444;
+    }
+
+    .bck-title1:before {
+        background-size: contain;
+	    content: " ";
+	    padding: 30px;
+	    left: -20px;
+	    margin-top: -10px;
+	    background-color: red;
+	    background-repeat: no-repeat;
+	    position: absolute;
+	    background-image: url(images/autoevaluacion1_2_primaria.png)
+    }
+
+	/*.bck-title1,
 	.bck-title2,
 	.bck-title3,
 	.bck-title-activity {
@@ -682,7 +709,7 @@
 		font-weight: bold;
 		padding-bottom: 10px;
 		margin-bottom: 30px;
-	}
+	}*/
 
 	.bck-title2 {
 		font-size: 3.0rem;
