@@ -21,6 +21,9 @@
 				{ name: 'Autoevaluación 3_4 primaria', element: 'h4', attributes: { 'class': 'bck-title4'} },
 				{ name: 'Ampliación 3_4 primaria', element: 'h4', attributes: { 'class': 'bck-title5'} },
 				{ name: 'Refuerzo 3_4 primaria', element: 'h4', attributes: { 'class': 'bck-title6'} },
+				{ name: 'Autoevaluación 5_6 primaria', element: 'h4', attributes: { 'class': 'bck-title7'} },
+				{ name: 'Ampliación 5_6 primaria', element: 'h4', attributes: { 'class': 'bck-title8'} },
+				{ name: 'Refuerzo 5_6 primaria', element: 'h4', attributes: { 'class': 'bck-title9'} },
 
 				{ name: 'Lista Ordenada por defecto', element: 'ol', attributes: { 'class': 'bck-ol' } },
 				{ name: 'Lista Ordenada 1', element: 'ol', attributes: { 'class': 'bck-ol-1' } },
