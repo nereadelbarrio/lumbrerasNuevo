@@ -736,6 +736,121 @@
 	    background-position: center;
 	}
 
+		.bck-title10 {
+	    background-image: url(images/autoevaluacion1_secund.png);
+	    background-size: contain;
+	    background-repeat: no-repeat;
+	    padding: 70px;
+	    background-position: center;
+	}
+
+	.bck-title11 {
+	    background-image: url(images/ampliacion1_secund.png);
+	    background-size: contain;
+	    background-repeat: no-repeat;
+	    padding: 37px;
+	}
+
+	.bck-title12 {
+	    background-image: url(images/refuerzo1_secund.png);
+	    background-size: contain;
+	    background-repeat: no-repeat;
+	    padding: 44px;
+	    background-position: center;
+	}
+
+	.bck-title13 {
+	    background-image: url(images/autoevaluacion2_secund.png);
+	    background-size: contain;
+	    background-repeat: no-repeat;
+	    padding: 70px;
+	    background-position: center;
+	}
+
+	.bck-title14 {
+	    background-image: url(images/ampliacion2_secund.png);
+	    background-size: contain;
+	    background-repeat: no-repeat;
+	    padding: 37px;
+	}
+
+	.bck-title15 {
+	    background-image: url(images/refuerzo2_secund.png);
+	    background-size: contain;
+	    background-repeat: no-repeat;
+	    padding: 44px;
+	    background-position: center;
+	}
+
+	.bck-title16 {
+	    background-image: url(images/autoevaluacion3_secund.png);
+	    background-size: contain;
+	    background-repeat: no-repeat;
+	    padding: 70px;
+	    background-position: center;
+	}
+
+	.bck-title17 {
+	    background-image: url(images/ampliacion3_secund.png);
+	    background-size: contain;
+	    background-repeat: no-repeat;
+	    padding: 37px;
+	}
+
+	.bck-title18 {
+	    background-image: url(images/refuerzo3_secund.png);
+	    background-size: contain;
+	    background-repeat: no-repeat;
+	    padding: 44px;
+	    background-position: center;
+	}
+
+	.bck-title19 {
+	    background-image: url(images/autoevaluacion4_secund.png);
+	    background-size: contain;
+	    background-repeat: no-repeat;
+	    padding: 70px;
+	    background-position: center;
+	}
+
+	.bck-title20 {
+	    background-image: url(images/ampliacion4_secund.png);
+	    background-size: contain;
+	    background-repeat: no-repeat;
+	    padding: 37px;
+	}
+
+	.bck-title21 {
+	    background-image: url(images/refuerzo4_secund.png);
+	    background-size: contain;
+	    background-repeat: no-repeat;
+	    padding: 44px;
+	    background-position: center;
+	}
+
+	.bck-title22 {
+	    background-image: url(images/autoevaluacion5_secund.png);
+	    background-size: contain;
+	    background-repeat: no-repeat;
+	    padding: 70px;
+	    background-position: center;
+	}
+
+	.bck-title23 {
+	    background-image: url(images/ampliacion5_secund.png);
+	    background-size: contain;
+	    background-repeat: no-repeat;
+	    padding: 37px;
+	}
+
+	.bck-title24 {
+	    background-image: url(images/refuerzo5_secund.png);
+	    background-size: contain;
+	    background-repeat: no-repeat;
+	    padding: 44px;
+	    background-position: center;
+	}
+
 	.bck-enfasis,
 	strong {
 		color: #E94442;
