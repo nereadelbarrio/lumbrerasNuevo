@@ -863,8 +863,8 @@
 	    text-align: right;
 	    color: #ffff;
 	    margin-top: -2px;
-	    ackground: rgba(85, 132, 194, 1);
-    	border: 1px solid rgba(85, 132, 194, 1);
+	    background: rgba(85, 132, 194, 1);
+    	    border: 1px solid rgba(85, 132, 194, 1);
 	    border-radius: 25px;
 	    padding: 3px 10px;
 	    font-family: 'Poppins', sans-serif;
