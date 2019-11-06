@@ -165,11 +165,11 @@
 
 	#indice .unit-content .material .item .imagen{
 	background-color: rgba(210, 70, 147, 1);
-}
+	}
 
 	#indice .unit-content .material .item .imagen.archivo:before{
 		width: 50px;
-	    background-image: url(/images/icono_libro_blanco.png);
+	    background-image: url(images/icono_libro_blanco.png);
 	}
 
 	#indice .unit-content .material .item .imagen.archivo:after{
@@ -181,13 +181,13 @@
 	}
 
 	#indice .unit-content .material .item .imagen.musica:before{
-		background-image: url(/images/icono_nota-musical.png);
+		background-image: url(images/icono_nota-musical.png);
 	    width: 43px;
 	    margin-left: -8px;
 	}
 
 	#indice .unit-content .material .item .imagen.video:before{
-		background-image: url(/images/icono_camara-de-video.png);
+		background-image: url(images/icono_camara-de-video.png);
 	    width: 45px;
 	    margin-left: 5px;
 	}
