@@ -199,6 +199,30 @@
 	.body_clase .libro-left .title{
 		font-family: 'Conv_Poppins-Regular';
 	}
+	
+	.body_clase .libro-left .title{
+	font-family: 'Conv_Poppins-Regular';
+	}
+
+	.navbar.libro{
+		background: #c1a2d1 !important;
+	}
+
+	.libro-right, .libro-left{
+		background: #c1a2d1;
+	}
+
+	.body_clase .navbar.libro .libro-left{
+		background: #c1a2d1 !important
+	}
+
+	.libro-right ul li.close-back-wrapper:before, .navbar-divider:before{
+		background-color: #eee;
+	}
+
+	.libro-right ul li.close-back-wrapper:after, .navbar-divider:after{
+		background-color: #eee;
+	}
 
 
 	/* General */
