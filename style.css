@@ -183,7 +183,7 @@
 	#indice .unit-content .material .item .imagen.musica:before{
 		background-image: url(images/icono_nota-musical.png);
 	    width: 43px;
-	    margin-left: -8px;
+	    margin-left: -3px;
 	}
 
 	#indice .unit-content .material .item .imagen.video:before{
