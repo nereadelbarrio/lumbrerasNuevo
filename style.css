@@ -147,6 +147,22 @@
 		    margin-left: -40px;
 	}
 
+	.btn-group, .btn-group-vertical{
+		font-family: 'Conv_Raleway-Regular';
+	}
+
+	.pags{
+		font-family: 'Conv_Raleway-Regular';
+	}
+
+	#indice .unit-content .actividades .item .title{
+		font-family: 'Conv_Raleway-Regular';
+	}
+
+	.btn-primary, .btn-primary.disabled, .btn-primary.disabled:hover, .btn-primary.disabled:focus{
+		background-color: #D91C5C;
+	}
+
 	/* General */
 
 	.body_clase .content-wrapper {
