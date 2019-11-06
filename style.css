@@ -196,6 +196,10 @@
 		display: none;
 	}
 
+	.body_clase .libro-left .title{
+		font-family: 'Conv_Poppins-Regular';
+	}
+
 
 	/* General */
 
