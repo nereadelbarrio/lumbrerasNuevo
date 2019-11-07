@@ -205,15 +205,15 @@
 	}
 
 	.navbar.libro{
-		background: #c1a2d1 !important;
-	}
+	background: rgb(113, 193, 88) !important;
+}
 
 	.libro-right, .libro-left{
-		background: #c1a2d1;
+		background: rgb(113, 193, 88);
 	}
 
 	.body_clase .navbar.libro .libro-left{
-		background: #c1a2d1 !important
+		background: rgb(113, 193, 88) !important
 	}
 
 	.libro-right ul li.close-back-wrapper:before, .navbar-divider:before{
@@ -224,6 +224,17 @@
 		background-color: #eee;
 	}
 
+	.search-button{
+		background: rgba(62, 161, 217, 1);
+	}
+
+	.search-button:before{
+		border-color: transparent #3ea1d9 transparent transparent;
+	}
+
+	.toolbar .active, .libro-left .active .info{
+		background-color: #3ea1d9 !important;
+	}
 
 	/* General */
 
