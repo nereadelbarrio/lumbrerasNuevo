@@ -147,6 +147,25 @@
 		    margin-left: -40px;
 	}
 
+	.libro-left ul li .title{
+		padding-left: 10px;
+	    overflow: hidden;
+	    -o-text-overflow: ellipsis;
+	    text-overflow: ellipsis;
+	    white-space: nowrap;
+	    font-family: 'Conv_Poppins-Regular';
+	}
+
+	.libro-left ul li .title{
+	    color: #fff;
+	    font-size: 16px;
+	    font-weight: 700;
+	    line-height: 42px;
+	    margin-left: 10px;
+	    max-height: 44px;
+	    display: inline-block;
+	}
+
 	.btn-group, .btn-group-vertical{
 		font-family: 'Conv_Raleway-Regular';
 	}
