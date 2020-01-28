@@ -1,11 +1,28 @@
 
 /*TAGS LUMBRERAS*/
-#list-units .unittag_1_2_primaria_lumbreras:hover{
+/*#list-units .unittag_1_2_primaria_lumbreras:hover{
 	background-color: #FDEB06!important;
 }
 
 #list-units .unittag_1_2_primaria_lumbreras.active:not(.disabled){
 	background-color: #FDEB06!important;
+}*/
+
+#list-units .coursetag_1_2_primaria_lumbreras:hover{
+	background-color: #FDEB06!important;
+}
+
+#list-units .coursetag_1_2_primaria_lumbreras.active:not(.disabled){
+	background-color: #FDEB06!important;
+}
+
+
+.units ul#list-units .coursetag_1_2_primaria_lumbreras a .title{
+	color: rgb(111,129,189,1)!important;
+}
+
+#list-units .coursetag_1_2_primaria_lumbreras .units ul li{
+	background: rgb(207, 212, 230);
 }
 
 #list-units .unittag_3_4_primaria_lumbreras:hover{
