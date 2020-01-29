@@ -366,6 +366,14 @@
 		font-family: 'Conv_Raleway-Regular';
 	}	
 
+	#actividad .content .review .attemps{
+		font-family: 'Conv_Raleway-Regular';
+	}
+
+	#actividad .content .review .attemps span{
+		padding: 4px 12px;
+	}
+
 	.libro-left ul li .title:before {
 		    content: "";
 		    background-size: contain;
