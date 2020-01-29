@@ -359,7 +359,12 @@
 
 	.btn-primary, .btn-primary.disabled, .btn-primary.disabled:hover, .btn-primary.disabled:focus{
 		background-color: #D91C5C;
+		font-family: 'Conv_Raleway-Regular';
 	}
+
+	.btn-danger, .btn-danger[disabled]{
+		font-family: 'Conv_Raleway-Regular';
+	}	
 
 	.libro-left ul li .title:before {
 		    content: "";
