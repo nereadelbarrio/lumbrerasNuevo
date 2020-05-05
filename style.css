@@ -135,6 +135,27 @@
     background-color: #F6891F;
 }
 
+.coursetag_5_6_primaria_lumbreras .btn-primary, 
+.coursetag_5_6_primaria_lumbreras .btn-primary.disabled, 
+.coursetag_5_6_primaria_lumbreras .btn-primary.disabled:hover, 
+.coursetag_5_6_primaria_lumbreras .btn-primary.disabled:focus{
+	background-color: #F6891F;
+	color:#ffff;
+}
+
+.coursetag_5_6_primaria_lumbreras .btn-primary:not([disabled]):hover, 
+.coursetag_5_6_primaria_lumbreras .btn-primary:not([disabled]):focus,
+.coursetag_5_6_primaria_lumbreras .btn-primary:not([disabled]):active,
+.coursetag_5_6_primaria_lumbreras .btn-primary.active, 
+.coursetag_5_6_primaria_lumbreras .open .dropdown-toggle.btn-primary{
+	background-color: #F6891F;
+	color:#ffff;
+}
+
+.coursetag_5_6_primaria_lumbreras #actividad .content .review .attemps span{
+	background-color: #F6891F;
+}
+
 .coursetag_5_6_primaria_lumbreras #indice .units ul li.active:not(.disabled){
 	background-color: #F6891F!important;
 }
@@ -165,6 +186,13 @@
     margin-left: 9px;
 }
 
+.coursetag_5_6_primaria_lumbreras #top-navigator .slider-indicators li{
+	background: #F6891F;
+}
+
+.coursetag_5_6_primaria_lumbreras .content_type_clase_lumbrerasNuevo .publisher-navbar .dropdown li a{
+	color: : #F6891F;
+}
 /*1 secun*/
 
 .coursetag_1_secundaria_lumbreras .btn-group .btn-primary.disabled {
