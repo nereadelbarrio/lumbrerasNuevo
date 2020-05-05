@@ -57,6 +57,11 @@
     margin-left: 9px;
 }
 
+.coursetag_1_2_primaria_lumbreras #top-navigator .slider-indicators li{
+	background: #FDEB06;
+}
+
+
 .coursetag_1_2_primaria_lumbreras .content_type_clase_lumbrerasNuevo .publisher-navbar .dropdown li a{
 	color: #FDEB06;
 }
