@@ -6,6 +6,27 @@
        background-color: #fdeb06;
 }
 
+.coursetag_1_2_primaria_lumbreras .btn-primary, 
+.coursetag_1_2_primaria_lumbreras .btn-primary.disabled, 
+.coursetag_1_2_primaria_lumbreras .btn-primary.disabled:hover, 
+.coursetag_1_2_primaria_lumbreras .btn-primary.disabled:focus{
+	background-color: #fdeb06;
+	color:#ffff;
+}
+
+.coursetag_1_2_primaria_lumbreras .btn-primary:not([disabled]):hover, 
+.coursetag_1_2_primaria_lumbreras .btn-primary:not([disabled]):focus,
+.coursetag_1_2_primaria_lumbreras .btn-primary:not([disabled]):active,
+.coursetag_1_2_primaria_lumbreras .btn-primary.active, 
+.coursetag_1_2_primaria_lumbreras .open .dropdown-toggle.btn-primary{
+	background-color: #fdeb06;
+	color:#ffff;
+}
+
+.coursetag_1_2_primaria_lumbreras #actividad .content .review .attemps span{
+	background-color: #fdeb06;
+}
+
 .coursetag_1_2_primaria_lumbreras #indice .units ul li.active:not(.disabled){
 	background-color: #FDEB06!important;
 }
@@ -34,6 +55,10 @@
 .coursetag_1_2_primaria_lumbreras.content_type_clase_lumbrerasNuevo .publisher-navbar .dropdown .caret{
 	border-color: #ffffff transparent transparent transparent;
     margin-left: 9px;
+}
+
+.coursetag_1_2_primaria_lumbreras .content_type_clase_lumbrerasNuevo .publisher-navbar .dropdown li a{
+	color: #FDEB06;
 }
 
 /*3 y 4*/
