@@ -322,9 +322,29 @@
 }
 
 /*3 secun*/
-
 .coursetag_3_secundaria_lumbreras .btn-group .btn-primary.disabled {
     background-color: #E59C46;
+}
+
+.coursetag_3_secundaria_lumbreras .btn-primary, 
+.coursetag_3_secundaria_lumbreras .btn-primary.disabled, 
+.coursetag_3_secundaria_lumbreras .btn-primary.disabled:hover, 
+.coursetag_3_secundaria_lumbreras .btn-primary.disabled:focus{
+	background-color: #E59C46;
+	color:#ffff;
+}
+
+.coursetag_3_secundaria_lumbreras .btn-primary:not([disabled]):hover, 
+.coursetag_3_secundaria_lumbreras .btn-primary:not([disabled]):focus,
+.coursetag_3_secundaria_lumbreras .btn-primary:not([disabled]):active,
+.coursetag_3_secundaria_lumbreras .btn-primary.active, 
+.coursetag_3_secundaria_lumbreras .open .dropdown-toggle.btn-primary{
+	background-color: #E59C46;
+	color:#ffff;
+}
+
+.coursetag_3_secundaria_lumbreras #actividad .content .review .attemps span{
+	background-color: #E59C46;
 }
 
 .coursetag_3_secundaria_lumbreras #indice .units ul li.active:not(.disabled){
@@ -357,11 +377,42 @@
     margin-left: 9px;
 }
 
+
+.coursetag_3_secundaria_lumbreras #top-navigator .slider-indicators li{
+	background: #E59C46;
+}
+
+.coursetag_3_secundaria_lumbreras .content_type_clase_lumbrerasNuevo .publisher-navbar .dropdown li a{
+	color: : #E59C46;
+}
+
 /*4 secun*/
 
 .coursetag_4_secundaria_lumbreras .btn-group .btn-primary.disabled {
     background-color: #D24965;
 }
+
+.coursetag_4_secundaria_lumbreras .btn-primary, 
+.coursetag_4_secundaria_lumbreras .btn-primary.disabled, 
+.coursetag_4_secundaria_lumbreras .btn-primary.disabled:hover, 
+.coursetag_4_secundaria_lumbreras .btn-primary.disabled:focus{
+	background-color: #D24965;
+	color:#ffff;
+}
+
+.coursetag_4_secundaria_lumbreras .btn-primary:not([disabled]):hover, 
+.coursetag_4_secundaria_lumbreras .btn-primary:not([disabled]):focus,
+.coursetag_4_secundaria_lumbreras .btn-primary:not([disabled]):active,
+.coursetag_4_secundaria_lumbreras .btn-primary.active, 
+.coursetag_4_secundaria_lumbreras .open .dropdown-toggle.btn-primary{
+	background-color: #D24965;
+	color:#ffff;
+}
+
+.coursetag_4_secundaria_lumbreras #actividad .content .review .attemps span{
+	background-color: #D24965;
+}
+
 
 .coursetag_4_secundaria_lumbreras #indice .units ul li.active:not(.disabled){
 	background-color: #D24965!important;
@@ -393,7 +444,13 @@
     margin-left: 9px;
 }
 
+.coursetag_4_secundaria_lumbreras #top-navigator .slider-indicators li{
+	background: #D24965;
+}
 
+.coursetag_4_secundaria_lumbreras .content_type_clase_lumbrerasNuevo .publisher-navbar .dropdown li a{
+	color: : #D24965;
+}
 /*5 secun*/
 
 .coursetag_5_secundaria_lumbreras .btn-group .btn-primary.disabled {
