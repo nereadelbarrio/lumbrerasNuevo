@@ -405,11 +405,7 @@
 	    max-height: 44px;
 	    display: inline-block;
 	}
-
-	.btn-group, .btn-group-vertical{
-		font-family: 'Conv_Raleway-Regular';
-	}
-
+	
 	.pags{
 		font-family: 'Conv_Raleway-Regular';
 	}
@@ -420,6 +416,14 @@
 
 	.btn-primary, .btn-primary.disabled, .btn-primary.disabled:hover, .btn-primary.disabled:focus{
 		background-color: #D91C5C;
+	}
+
+	.btn-solution, .btn-solution.disabled, .btn-solution[disabled], .btn-next, .btn-next.disabled, .btn-next[disabled]{
+		font-family: 'Conv_Raleway-Regular';
+	}
+        
+	.btn-group, .btn-group-vertical{
+		font-family: 'Conv_Raleway-Regular';
 	}
 
 	#indice .unit-content .material .item .imagen{
